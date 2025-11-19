@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pranshul Gupta 
-- 👀 I’m interested in the Tech world so I am exploring multiple stacks and working on some projects 
-- 💞️ I’m looking to collaborate on projects that can help me grow and add some value to the world
-- 📫 you can connect with me on any platform like Linkedin, Twitter, or Instagram(which I don't recommend 😅)  
-- 😄 Pronouns: he/him
-
+- 👀 Working with Kubernetes because it teaches scale better than any textbook.
+- 💞️ Grinding [LeetCode](https://leetcode.com/u/_pranshul/) to turn patterns into instinct.
+- ♟️ Chess is my quiet hobby — [Pranshulgu](https://www.chess.com/member/Pranshulgu)
+- 😄 I read so much I forget which ideas are mine.
