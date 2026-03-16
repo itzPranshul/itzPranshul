@@ -1,5 +1,5 @@
-- Hi, I’m Pranshul Gupta 
-- I'm Working with Kubernetes because it teaches scale better than any textbook.
-- Grinding [LeetCode](https://leetcode.com/u/_pranshul/) to turn patterns into instinct.
-- Chess is my quiet hobby — [Pranshulgu](https://www.chess.com/member/Pranshulgu)
-- I read so much I forget which ideas are mine.
+- Hi, I’m Pranshul Gupta.
+- I am curious about Kubernetes & Distributed systems.
+- Grinding [LeetCode](https://leetcode.com/u/_pranshul/).
+- Chess is my quiet hobby.
+- I read so much.
