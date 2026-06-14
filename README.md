@@ -1,5 +1,4 @@
-- Hi, I’m Pranshul Gupta.
-- I am curious about Kubernetes & Distributed systems.
+- I am Looking for early career roles in Infrastructure engineering/Cloud-Native/DevOps.
+- I am a Kubernetes org. member, List of contributions: https://github.com/kubernetes/org/issues/6391
 - Grinding [LeetCode](https://leetcode.com/u/_pranshul/).
-- Chess is my quiet hobby.
-- I read so much.
+- Chess is my hobby.
